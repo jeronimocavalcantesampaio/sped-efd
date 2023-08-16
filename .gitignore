@@ -1,0 +1,10 @@
+.idea
+.~lock*
+.vscode
+limpaTAB.php
+local
+vendor
+nbproject
+build
+composer.lock
+config.json
